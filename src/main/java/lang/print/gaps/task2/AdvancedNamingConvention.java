@@ -14,4 +14,3 @@ public class AdvancedNamingConvention {
         //some code
     }
 }
-
